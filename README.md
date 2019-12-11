@@ -1,5 +1,5 @@
 
-## Lab 11: Authentication
+## Intro to Authentication
 
 ### Author: Alvian Joseph
 
